@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.3",
+  "latest_version": "1.1.4",
   "min_supported_version": "1.1.0",
   "update_type": "optional",
   "title": "⚡ New Version Available!",
-  "message": "We've fixed the startup crashes and added the new In-App Auto-Update system. Update now for a smoother experience!",
+  "message": "We've fixed the UI Issue, Which Was looking so weird",
   "app_download_page": "https://github.com/mrsastaproo/website-apk/releases/latest/download/DEN.apk"
 }
