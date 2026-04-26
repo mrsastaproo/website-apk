@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.6",
-  "min_supported_version": "1.1.6",
+  "latest_version": "1.1.7",
+  "min_supported_version": "1.1.7",
   "update_type": "force",
   "title": "New Update Available!",
-  "message": "Version 1.1.6 is here with new Soundcloud Playlists, Smart Queue features, and massive performance improvements.",
-  "app_download_page": "https://github.com/mrsastaproo/website-apk/releases/latest/download/DEN_1.1.6.apk"
+  "message": "Version 1.1.7 is here with new Soundcloud Playlists, Smart Queue features, and massive performance improvements.",
+  "app_download_page": "https://github.com/mrsastaproo/website-apk/releases/latest/download/DEN_1.1.7.apk"
 }
