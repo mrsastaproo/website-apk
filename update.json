@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.9",
-  "min_supported_version": "1.1.9",
+  "latest_version": "1.1.8",
+  "min_supported_version": "1.1.8",
   "update_type": "force",
   "title": "New Update Available!",
-  "message": "Version 1.1.9 — invite tracking now works for all users.",
-  "app_download_page": "https://github.com/mrsastaproo/website-apk/releases/latest/download/DEN_1.1.9.apk"
+  "message": "Version 1.1.8 fixes invite tracking and adds deep link support.",
+  "app_download_page": "https://github.com/mrsastaproo/website-apk/releases/download/v1.1.9/DEN_1.1.9.apk"
 }
