@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.8",
-  "min_supported_version": "1.1.8",
+  "latest_version": "1.1.10",
+  "min_supported_version": "1.1.10",
   "update_type": "force",
   "title": "New Update Available!",
   "message": "Version 1.1.8 fixes invite tracking and adds deep link support.",
